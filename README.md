@@ -27,4 +27,4 @@ To benchmark the depth estimation, run `python benchmark-ibims.py` or `python be
 
 
 ## video
-<a href="http://content.sniklaus.com/kenburns/video.mp4" rel="Video"><img src="[http://content.sniklaus.com/kenburns/video.jpg](http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4)http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4" alt="Video" width="100%"></a>
+<a href="[http://content.sniklaus.com/kenburns/video.mp4](http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4)" rel="Video"><img src="[http://content.sniklaus.com/kenburns/video.jpg](http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4)http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4" alt="Video" width="100%"></a>
