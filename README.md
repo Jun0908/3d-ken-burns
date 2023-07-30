@@ -1,7 +1,3 @@
-# 3d-ken-burns
-This is a reference implementation of 3D Ken Burns Effect from a Single Image [1] using PyTorch. Given a single input image, it animates this still image with a virtual camera scan and zoom subject to motion parallax. Should you be making use of our work, please cite our paper [1].
-
-<a href="https://arxiv.org/abs/1909.05483" rel="Paper"><img src="http://content.sniklaus.com/kenburns/paper.jpg" alt="Paper" width="100%"></a>
 
 ## setup
 Several functions are implemented in CUDA using CuPy, which is why CuPy is a required dependency. It can be installed using `pip install cupy` or alternatively using one of the provided [binary packages](https://docs.cupy.dev/en/stable/install.html#installing-cupy) as outlined in the CuPy repository. Please also make sure to have the `CUDA_HOME` environment variable configured.
@@ -31,4 +27,4 @@ To benchmark the depth estimation, run `python benchmark-ibims.py` or `python be
 
 
 ## video
-<a href="http://content.sniklaus.com/kenburns/video.mp4" rel="Video"><img src="http://content.sniklaus.com/kenburns/video.jpg" alt="Video" width="100%"></a>
+<a href="http://content.sniklaus.com/kenburns/video.mp4" rel="Video"><img src="[http://content.sniklaus.com/kenburns/video.jpg](http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4)http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4" alt="Video" width="100%"></a>
