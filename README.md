@@ -25,6 +25,3 @@ python depthestim.py --in ./images/doublestrike.jpg --out ./depthestim.npy
 
 To benchmark the depth estimation, run `python benchmark-ibims.py` or `python benchmark-nyu.py`. You can use it to easily verify that the provided implementation runs as expected.
 
-
-## video
-<a href="[(http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4)](http://cedro3.com/wp-content/uploads/2020/10/yokohama-1.mp4)" rel="Video"></a>
